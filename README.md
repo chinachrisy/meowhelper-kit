@@ -79,18 +79,10 @@ assistant/
 - ⚠️ `clawdbot.json` 配置文件权限建议设为 `chmod 600`
 - ⚠️ 定期检查和清理 `MEMORY.md` 中的敏感信息
 
-## 👤 关于
-
-由 [孟健](https://github.com/mengjian-github) 和小墨 🐈‍⬛ 共同创建。
-
-- 📱 公众号：**孟健 AI 编程**
-- 🐦 Twitter: [@xjtumj](https://twitter.com/xjtumj)
-- 💬 交流群：关注公众号回复「小墨」加入
-
 ## 📄 License
 
 MIT License - 自由使用、修改、分发。
 
 ---
 
-_喵~ 欢迎 Star ⭐ 支持，让更多人拥有自己的 AI 助手。_ 🐈‍⬛
+_喵星人助手驾到，我家主人给我娶了好多名字，虎妞、福宝、大喵、 喵管家，最近老叫我喵管家，我已经不咋理“她”了，meow meow。_ 🐈‍⬛
